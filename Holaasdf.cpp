@@ -1,4 +1,5 @@
-1212121212what???Cell Toolbar:
+
+1212121212what???
 1. Trabajo colaborativo
 
 El flujo de trabajo que hasta ahora hemos visto es:
@@ -185,3 +186,6 @@ Nota: Vale la pena incluir un archivo LICENSE.md, donde definen la manera en que
     Clona este repositorio (el que está en tu cuenta de GitHub) a tu máquina.
     Si haces cambios al proyecto (en tu repositorio local, desde una rama distinta a master, y quieres que éstos se evalúen para usarse en el proyecto colaborativo central, debes primero actualizar tu fork (en GitHub) con tus cambios. Para esto, subirás tus cambios a tu repositorio en GitHub usando git push origin <mi_rama>, donde <mi_rama> es la rama donde hiciste los cambios que quieres subir.
     Ahora puedes hacer una petición para subir tus cambios (pull request) al proyecto central, directamente desde la página de GitHub de tu versión del repositorio, o usando el comando hub pull-request en la línea de comandos si tienes instalado hub (una versión extendida de git que funciona 
+1212121212what???
+cb26a04437b2d5a4f60487ed65bba7c0eb0c9cd4
+ 4dc513838ea41c26b30cddf21cb9b17afaed1c59
